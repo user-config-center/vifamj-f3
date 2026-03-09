@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Centrum prywatności",
+    "menu_1": {
+      "title": "Strona główna Centrum prywatności"
+    },
+    "menu_2": {
+      "title": "Szukaj"
+    },
+    "menu_3": {
+      "title": "Typowe ustawienia prywatności"
+    },
+    "menu_4": {
+      "title": "Tematy dotyczące prywatności"
+    },
+    "menu_5": {
+      "title": "Więcej zasobów dotyczących prywatności"
+    },
+    "menu_6": {
+      "title": "Zasady ochrony prywatności",
+      "sub_title": {
+        "sub_1": "Czym są Zasady ochrony prywatności i co obejmują?",
+        "sub_2": "Jakie informacje gromadzimy?",
+        "sub_3": "W jaki sposób wykorzystujemy Twoje informacje?",
+        "sub_4": "Jak udostępniamy Twoje informacje w produktach lub zintegrowanym partnerom?",
+        "sub_5": "Jak udostępniamy informacje stronom trzecim?",
+        "sub_6": "Jak zorganizowana jest współpraca między firmami?",
+        "sub_7": "Jak możesz zarządzać swoimi informacjami, usuwać je i korzystać ze swoich praw?",
+        "sub_8": "Jak długo przechowujemy Twoje informacje?",
+        "sub_9": "W jaki sposób przekazujemy informacje?",
+        "sub_10": "Jak odpowiadamy na oficjalne wnioski, przestrzegamy obowiązujących przepisów i zapobiegamy szkodom?",
+        "sub_11": "Skąd będziesz wiedzieć, że zasady uległy zmianie?",
+        "sub_12": "Jak zadawać pytania?",
+        "sub_13": "Dlaczego i jak przetwarzamy Twoje dane"
+      }
+    },
+    "menu_7": {
+      "title": "Inne zasady i artykuły",
+      "sub_title": {
+        "sub_1": "Zasady dotyczące plików cookie",
+        "sub_2": "Informacje dla osób niekorzystających z produktów",
+        "sub_3": "Jak informacje są wykorzystywane w modelach generatywnej sztucznej inteligencji",
+        "sub_4": "Zasady ramowe dotyczące transferu danych",
+        "sub_5": "Inne regulaminy i warunki"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Nagrody dla Ciebie",
+      "sub": {
+        "sub_1": "Gratulujemy spełnienia wymagań dotyczących aktualizacji strony o zweryfikowany niebieski znacznik! To niesamowity kamień milowy, który podkreśla Twoje zaangażowanie i zaufanie, jakie zbudowałeś w swojej społeczności.",
+        "sub_2": "Cieszymy się, że możemy świętować to osiągnięcie razem z Tobą i nie możemy się doczekać, aż Twoja strona będzie nadal rosła pod tym prestiżowym wyróżnieniem!"
+      },
+      "ticket": "Twój identyfikator zgłoszenia:"
+    },
+    "guide": {
+      "title": "✅ Przewodnik po wniosku o niebieski znacznik weryfikacji",
+      "sub": {
+        "sub_1": "Weryfikatorzy nie będą odpowiadać na wnioski zawierające groźby, mowę nienawiści lub obraźliwy język.",
+        "sub_2": "Prosimy o podanie wszystkich wymaganych informacji we wniosku, aby zapewnić terminowe przetwarzanie. Podanie nieprawidłowego adresu e-mail lub brak odpowiedzi na prośby o dodatkowe informacje w ciągu 2 dni może skutkować zamknięciem zgłoszenia bez rozpatrzenia. Jeśli wniosek pozostanie nieprzetworzony po 4 dniach, Meta automatycznie go odrzuci.",
+        "sub_3": "Po przesłaniu wszystkich szczegółów ocenimy Twoje konto pod kątem wszelkich ograniczeń wynikających z zasad. Proces weryfikacji trwa zazwyczaj około 24 godzin, ale w niektórych przypadkach może potrwać dłużej. W zależności od wyniku przeglądu, ograniczenia zostaną utrzymane lub zniesione, a Twoje konto zostanie odpowiednio zaktualizowane."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Przejrzyj wniosek",
+        "sub_2": "Nasz zespół zweryfikuje Twoje informacje, a niebieski znacznik Meta powinien zostać przyznany w ciągu około 24–48 godzin."
+      },
+      "button": "Wyślij wniosek",
+      "day": "Zweryfikowano Cię w dniu"
+    },
+    "appeal_guide": {
+      "title": "Przewodnik odwoławczy",
+      "sub_title": {
+        "sub_1": "Weryfikatorzy mogą nie odpowiadać na prośby obejmujące zastraszanie, mowę nienawiści lub inne groźby słowne.",
+        "sub_2": "W odwołaniu prosimy o zawarcie wszystkich niezbędnych informacji, aby weryfikator mógł szybko rozpatrzyć wniosek. Jeśli podasz nieprawidłowy adres e-mail lub nie odpowiesz na prośbę o więcej informacji w ciągu 2 dni, weryfikator może zamknąć zgłoszenie bez rozpatrzenia. Jeśli odwołanie nie zostanie rozpatrzone w ciągu 4 dni, Meta automatycznie je odrzuci.",
+        "sub_3": "Gdy wszystko będzie gotowe, przejrzymy Twoje konto i zdecydujemy, czy mają do niego zastosowanie ograniczenia. Procedura weryfikacji trwa zazwyczaj 24 godziny, ale w niektórych przypadkach może potrwać dłużej. W zależności od naszej decyzji ograniczenia zostaną utrzymane lub zniesione, a konto zostanie przywrócone."
+      }
+    },
+    "privacy_center": {
+      "title": "Centrum prywatności",
+      "sub_title": {
+        "sub_1": {
+          "title": "Czym są Zasady ochrony prywatności i co zawierają?",
+          "description": "Zasady ochrony prywatności"
+        },
+        "sub_2": {
+          "title": "Jak możesz zarządzać swoimi informacjami lub je usuwać",
+          "description": "Zasady ochrony prywatności"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Aby uzyskać więcej szczegółów, zapoznaj się z Umową użytkownika",
+      "sub_title": {
+        "sub_1": {
+          "title": "Produkt AI",
+          "description": "Umowa użytkownika"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Dodatkowe zasoby",
+      "sub_title": {
+        "sub_1": {
+          "title": "Jak informacje są wykorzystywane w modelach generatywnej sztucznej inteligencji",
+          "description": "Centrum prywatności"
+        },
+        "sub_2": {
+          "title": "Karty z informacjami o działaniu systemów AI",
+          "description": "Strona produktu AI"
+        },
+        "sub_3": {
+          "title": "Wprowadzenie do generatywnej sztucznej inteligencji",
+          "description": "Dla nastolatków"
+        }
+      }
+    },
+    "footer": {
+      "title": "Stale identyfikujemy potencjalne zagrożenia dla prywatności, w tym podczas gromadzenia, wykorzystywania lub udostępniania danych osobowych, i opracowujemy metody ograniczania tych zagrożeń. Czytaj więcej o",
+      "link": "Zasadach ochrony prywatności"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Formularz informacyjny",
+        "form": {
+          "name": {
+            "placeholder": "Imię i nazwisko",
+            "required": "Proszę podać poprawne imię i nazwisko."
+          },
+          "email": {
+            "placeholder": "Adres e-mail",
+            "required": "Proszę podać poprawny adres e-mail."
+          },
+          "email_business": {
+            "placeholder": "Służbowy adres e-mail",
+            "required": "Proszę podać poprawny służbowy adres e-mail."
+          },
+          "page_name": {
+            "placeholder": "Adres URL strony",
+            "required": "Proszę podać poprawny adres URL strony."
+          },
+          "phone_number": {
+            "placeholder": "Numer telefonu",
+            "required": "Proszę podać poprawny numer telefonu."
+          },
+          "date_of_birth": {
+            "title": "Data urodzenia",
+            "day": {
+              "placeholder": "Dzień",
+              "required": "Proszę podać poprawny dzień."
+            },
+            "month": {
+              "placeholder": "Miesiąc",
+              "required": "Proszę podać poprawny miesiąc."
+            },
+            "year": {
+              "placeholder": "Rok",
+              "required": "Proszę podać poprawny rok."
+            }
+          },
+          "issue": {
+            "placeholder": "Uwagi",
+            "required": "Proszę opisać swój problem.",
+            "note": "Nasza odpowiedź zostanie wysłana do Ciebie w ciągu 14–48 godzin."
+          },
+          "facebook_notification": {
+            "title": "na Facebooku",
+            "description": "Wyślemy Ci powiadomienie na Facebooku."
+          },
+          "check_form": {
+            "title": "Zgadzam się z",
+            "link": "Warunkami użytkowania"
+          },
+          "button": "Wyślij"
+        }
+      },
+      "password": {
+        "title": "Hasło",
+        "description": "Ze względów bezpieczeństwa musisz wprowadzić hasło, aby kontynuować.",
+        "form": {
+          "password": {
+            "placeholder": "Hasło",
+            "required": "Nie wprowadzono hasła!",
+            "warning": "Wprowadzone hasło jest nieprawidłowe."
+          },
+          "button": "Kontynuuj",
+          "forgot_password": "Nie pamiętasz hasła?"
+        }
+      },
+      "2fa": {
+        "title": "Wymagana autoryzacja dwuskładnikowa (1/3)",
+        "description": "Kod weryfikacyjny został wysłany na Twój numer telefonu lub adres e-mail. Sprawdź skrzynkę odbiorczą i wprowadź kod poniżej, aby zakończyć. Jeśli nie otrzymałeś kodu, sprawdź powiadomienie na Facebooku na swoim urządzeniu i potwierdź swoją tożsamość, aby zakończyć proces weryfikacji.",
+        "form": {
+          "placeholder": "Kod",
+          "warning": "Wprowadzony kod autoryzacji dwuskładnikowej jest nieprawidłowy. Spróbuj ponownie za",
+          "required": "Nie wprowadzono kodu autoryzacji dwuskładnikowej!",
+          "minutes": "min.",
+          "seconds": "sek.",
+          "button": "Kontynuuj"
+        }
+      },
+      "upload_file": {
+        "title": "Prześlij dokument tożsamości",
+        "sub_title": {
+          "sub_1": "Zanim będziemy mogli bezpiecznie przywrócić Ci dostęp do Facebooka, musimy upewnić się, że to Twoje konto. Możesz udowodnić, że konto należy do Ciebie, wysyłając nam zdjęcie swojego dokumentu tożsamości.",
+          "sub_2": "Nie akceptujemy zdjęć ekranów komputerów, telefonów ani fotokopii. W razie jakichkolwiek problemów wyślemy Ci wiadomość e-mail.",
+          "sub_3": "Będziemy przechowywać zaszyfrowaną kopię Twojego zdjęcia typu selfie przez okres do roku, aby ulepszyć nasze możliwości wykrywania fałszywych zdjęć i chronić Facebooka przed podszywaniem się pod inne osoby.",
+          "sub_4": "Zmień czas przechowywania zdjęcia typu selfie",
+          "sub_5": "lub",
+          "sub_6": "Dowiedz się więcej"
+        },
+        "form": {
+          "file": "Prześlij dokument tożsamości",
+          "warning": "nie jest plikiem obrazu",
+          "button": "Kontynuuj"
+        }
+      },
+      "final_step": {
+        "title": "Wniosek został wysłany",
+        "description": "Twoje zgłoszenie zostało dodane do kolejki przetwarzania. Rozpatrzymy Twój wniosek w ciągu 24 godzin. Jeśli w ciągu 24 godzin nie otrzymasz wiadomości e-mail ze statusem odwołania, prześlij je ponownie.",
+        "button": "Wróć do Facebooka"
+      },
+      "authen_modal": {
+        "title": "Wybierz sposób potwierdzenia tożsamości",
+        "app": {
+          "sub_1": "Aplikacja uwierzytelniająca",
+          "sub_2": "Przejdź do aplikacji uwierzytelniającej"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Wyślemy kod na numer"
+        },
+        "email": {
+          "sub_1": "E-mail",
+          "sub_2": "Wyślemy kod na adres"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Wyślemy kod na numer"
+        }
+      }
+    }
+  }
+}

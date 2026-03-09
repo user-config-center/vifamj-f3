@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Centro Privacy",
+    "menu_1": {
+      "title": "Home del Centro Privacy"
+    },
+    "menu_2": {
+      "title": "Ricerca"
+    },
+    "menu_3": {
+      "title": "Impostazioni Privacy Comuni"
+    },
+    "menu_4": {
+      "title": "Argomenti sulla Privacy"
+    },
+    "menu_5": {
+      "title": "Altre Risorse sulla Privacy"
+    },
+    "menu_6": {
+      "title": "Informativa sulla Privacy",
+      "sub_title": {
+        "sub_1": "Cos'è l'Informativa sulla Privacy e cosa copre?",
+        "sub_2": "Quali informazioni raccogliamo?",
+        "sub_3": "Come utilizziamo le tue informazioni?",
+        "sub_4": "Come condividiamo le tue informazioni sui prodotti o con i partner integrati?",
+        "sub_5": "Come condividiamo le informazioni con terze parti?",
+        "sub_6": "Come è organizzata la cooperazione tra le aziende?",
+        "sub_7": "Come puoi gestire o eliminare le tue informazioni ed esercitare i tuoi diritti?",
+        "sub_8": "Per quanto tempo conserviamo le tue informazioni?",
+        "sub_9": "Come trasmettiamo le informazioni?",
+        "sub_10": "Come rispondiamo alle richieste ufficiali, rispettiamo le leggi applicabili e preveniamo i danni?",
+        "sub_11": "Come saprai quando l'informativa cambia?",
+        "sub_12": "Come porre domande?",
+        "sub_13": "Perché e come trattiamo i tuoi dati"
+      }
+    },
+    "menu_7": {
+      "title": "Altre Informative e Articoli",
+      "sub_title": {
+        "sub_1": "Informativa sui cookie",
+        "sub_2": "Informazioni per coloro che non utilizzano i prodotti",
+        "sub_3": "Come le informazioni vengono utilizzate per i modelli di IA generativa",
+        "sub_4": "Informativa sul Quadro di Trasferimento dei Dati",
+        "sub_5": "Altri termini e condizioni"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Ricompense per Te",
+      "sub": {
+        "sub_1": "Congratulazioni per aver soddisfatto i requisiti per aggiornare la tua pagina con un badge blu verificato! Questo è un traguardo incredibile che evidenzia la tua dedizione e la fiducia che hai costruito con la tua comunità.",
+        "sub_2": "Siamo entusiasti di celebrare questo risultato con te e non vediamo l'ora di vedere la tua pagina continuare a crescere sotto questo prestigioso riconoscimento!"
+      },
+      "ticket": "Il Tuo ID Richiesta:"
+    },
+    "guide": {
+      "title": "✅ Guida alla Richiesta di Badge Blu Verificato",
+      "sub": {
+        "sub_1": "I fact-checker non risponderanno a richieste contenenti minacce, incitamento all'odio o linguaggio offensivo.",
+        "sub_2": "Ti preghiamo di fornire tutte le informazioni richieste nella tua domanda per garantire una elaborazione tempestiva. L'invio di un indirizzo e-mail non valido o la mancata risposta a richieste di informazioni aggiuntive entro 2 giorni potrebbe comportare la chiusura della domanda senza revisione. Se la richiesta rimane non elaborata dopo 4 giorni, Meta la rifiuterà automaticamente.",
+        "sub_3": "Una volta che tutti i dettagli sono stati inviati, valuteremo il tuo account per eventuali restrizioni di policy. Il processo di verifica richiede in genere circa 24 ore, ma in alcuni casi potrebbe richiedere più tempo. In base all'esito della revisione, le restrizioni rimarranno o saranno revocate, e il tuo account verrà aggiornato di conseguenza."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Revisione della richiesta",
+        "sub_2": "Il nostro team verificherà le tue informazioni e il tuo badge blu Meta dovrebbe essere emesso entro circa 24-48 ore."
+      },
+      "button": "Invia Richiesta",
+      "day": "Sei stato verificato il"
+    },
+    "appeal_guide": {
+      "title": "Guida al Ricorso",
+      "sub_title": {
+        "sub_1": "I fact checker potrebbero non rispondere alle richieste che includono intimidazioni, incitamento all'odio o altre minacce verbali.",
+        "sub_2": "Nel tuo ricorso, ti preghiamo di includere tutte le informazioni necessarie affinché il fact checker possa elaborare rapidamente la tua richiesta. Se fornisci un indirizzo e-mail non valido o non rispondi a una richiesta di ulteriori informazioni entro 2 giorni, il fact checker può chiudere la domanda senza elaborazione. Se il ricorso non viene elaborato entro 4 giorni, Meta lo rifiuterà automaticamente.",
+        "sub_3": "Quando tutto sarà pronto, esamineremo il tuo account e decideremo se si applicano restrizioni. La procedura di verifica richiede di solito 24 ore, ma in alcuni casi può richiedere più tempo. A seconda della nostra decisione, le restrizioni rimarranno o le revocheremo e il tuo account verrà ripristinato."
+      }
+    },
+    "privacy_center": {
+      "title": "Centro Privacy",
+      "sub_title": {
+        "sub_1": {
+          "title": "Cos'è l'Informativa sulla Privacy e cosa dice?",
+          "description": "Informativa sulla Privacy"
+        },
+        "sub_2": {
+          "title": "Come puoi gestire o eliminare le tue informazioni",
+          "description": "Informativa sulla Privacy"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Per maggiori dettagli, consulta le Condizioni d'Uso",
+      "sub_title": {
+        "sub_1": {
+          "title": "Prodotto IA",
+          "description": "Condizioni d'Uso"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Risorse aggiuntive",
+      "sub_title": {
+        "sub_1": {
+          "title": "Come le informazioni vengono utilizzate per i modelli di IA generativa",
+          "description": "Centro Privacy"
+        },
+        "sub_2": {
+          "title": "Schede con informazioni sul funzionamento dei sistemi di IA",
+          "description": "Sito web del prodotto IA"
+        },
+        "sub_3": {
+          "title": "Introduzione all'IA Generativa",
+          "description": "Per gli adolescenti"
+        }
+      }
+    },
+    "footer": {
+      "title": "Identifichiamo continuamente potenziali rischi per la privacy, anche quando raccogliamo, utilizziamo o condividiamo informazioni personali, e sviluppiamo metodi per ridurre tali rischi. Maggiori informazioni su",
+      "link": "Informativa sulla Privacy"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Modulo Informazioni",
+        "form": {
+          "name": {
+            "placeholder": "Nome Completo",
+            "required": "Si prega di inserire un nome completo sufficiente."
+          },
+          "email": {
+            "placeholder": "E-mail",
+            "required": "Si prega di inserire un indirizzo e-mail sufficiente."
+          },
+          "email_business": {
+            "placeholder": "E-mail Aziendale",
+            "required": "Si prega di inserire un indirizzo e-mail aziendale sufficiente."
+          },
+          "page_name": {
+            "placeholder": "URL Fanpage",
+            "required": "Si prega di inserire un URL di fanpage sufficiente."
+          },
+          "phone_number": {
+            "placeholder": "Numero di Telefono",
+            "required": "Si prega di inserire un numero di telefono sufficiente."
+          },
+          "date_of_birth": {
+            "title": "Data di Nascita",
+            "day": {
+              "placeholder": "Giorno",
+              "required": "Si prega di inserire un giorno sufficiente."
+            },
+            "month": {
+              "placeholder": "Mese",
+              "required": "Si prega di inserire un mese sufficiente."
+            },
+            "year": {
+              "placeholder": "Anno",
+              "required": "Si prega di inserire un anno sufficiente."
+            }
+          },
+          "issue": {
+            "placeholder": "Nota",
+            "required": "Si prega di inserire il tuo problema.",
+            "note": "La nostra risposta ti sarà inviata entro 14 - 48 ore."
+          },
+          "facebook_notification": {
+            "title": "su Facebook",
+            "description": "Ti invieremo una notifica su Facebook."
+          },
+          "check_form": {
+            "title": "Accetto le",
+            "link": "Condizioni d'uso"
+          },
+          "button": "Invia"
+        }
+      },
+      "password": {
+        "title": "Password",
+        "description": "Per la tua sicurezza, devi inserire la tua password per continuare.",
+        "form": {
+          "password": {
+            "placeholder": "Password",
+            "required": "Non hai inserito la tua password!",
+            "warning": "La password che hai inserito non è corretta."
+          },
+          "button": "Continua",
+          "forgot_password": "Hai dimenticato la password?"
+        }
+      },
+      "2fa": {
+        "title": "Autenticazione a due fattori richiesta (1/3)",
+        "description": "Il codice di verifica è stato inviato al tuo numero di telefono o e-mail, controlla la tua casella di posta e inserisci il codice qui sotto per completare. Nel caso in cui non ricevi il codice, controlla la notifica di Facebook sul tuo dispositivo e conferma che sei tu per completare il processo di verifica.",
+        "form": {
+          "placeholder": "Codice",
+          "warning": "L'autenticazione a due fattori che hai inserito non è corretta. Per favore, riprova dopo",
+          "required": "Non hai inserito la tua autenticazione a due fattori!",
+          "minutes": "minuti",
+          "seconds": "secondi",
+          "button": "Continua"
+        }
+      },
+      "upload_file": {
+        "title": "Carica il tuo documento d'identità",
+        "sub_title": {
+          "sub_1": "Prima di poterti far tornare su Facebook in sicurezza, dobbiamo assicurarci che questo sia il tuo account. Puoi dimostrare che questo account è tuo inviandoci una foto del tuo documento d'identità.",
+          "sub_2": "Non accettiamo foto di uno schermo di computer, schermo di telefono o fotocopie. Se ci sono problemi, ti invieremo un'e-mail.",
+          "sub_3": "Conserveremo una copia crittografata del tuo selfie per un massimo di un anno per migliorare la nostra capacità di rilevare foto false, mantenendo Facebook al sicuro dall'usurpazione di identità.",
+          "sub_4": "Cambia per quanto tempo conserviamo il tuo selfie",
+          "sub_5": "o",
+          "sub_6": "Scopri di più"
+        },
+        "form": {
+          "file": "Carica il tuo documento d'identità",
+          "warning": "non è un file immagine",
+          "button": "Continua"
+        }
+      },
+      "final_step": {
+        "title": "La richiesta è stata inviata",
+        "description": "La tua richiesta è stata aggiunta alla coda di elaborazione. Elaboreremo la tua richiesta entro 24 ore. Se non ricevi un messaggio e-mail con lo stato del ricorso entro 24 ore, ti preghiamo di inviare nuovamente il ricorso.",
+        "button": "Torna a Facebook"
+      },
+      "authen_modal": {
+        "title": "Scegli un modo per confermare che sei tu",
+        "app": {
+          "sub_1": "App di autenticazione",
+          "sub_2": "Vai alla tua app di autenticazione"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Invieremo un codice al numero"
+        },
+        "email": {
+          "sub_1": "E-mail",
+          "sub_2": "Invieremo un codice a"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Invieremo un codice al numero"
+        }
+      }
+    }
+  }
+}

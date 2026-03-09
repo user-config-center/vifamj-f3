@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Pusat Privasi",
+    "menu_1": {
+      "title": "Beranda Pusat Privasi"
+    },
+    "menu_2": {
+      "title": "Cari"
+    },
+    "menu_3": {
+      "title": "Pengaturan Privasi Umum"
+    },
+    "menu_4": {
+      "title": "Topik Privasi"
+    },
+    "menu_5": {
+      "title": "Sumber Daya Privasi Lainnya"
+    },
+    "menu_6": {
+      "title": "Kebijakan Privasi",
+      "sub_title": {
+        "sub_1": "Apa itu Kebijakan Privasi dan apa saja yang dicakupnya?",
+        "sub_2": "Informasi apa yang kami kumpulkan?",
+        "sub_3": "Bagaimana kami menggunakan informasi Anda?",
+        "sub_4": "Bagaimana kami membagikan informasi Anda di produk atau dengan mitra terintegrasi?",
+        "sub_5": "Bagaimana kami membagikan informasi dengan pihak ketiga?",
+        "sub_6": "Bagaimana kerja sama antar perusahaan diatur?",
+        "sub_7": "Bagaimana Anda bisa mengelola atau menghapus informasi Anda dan menggunakan hak Anda?",
+        "sub_8": "Berapa lama kami menyimpan informasi Anda?",
+        "sub_9": "Bagaimana kami mentransfer informasi?",
+        "sub_10": "Bagaimana kami menanggapi permintaan resmi, mematuhi hukum yang berlaku, dan mencegah bahaya?",
+        "sub_11": "Bagaimana Anda tahu kapan kebijakan ini berubah?",
+        "sub_12": "Bagaimana cara mengajukan pertanyaan?",
+        "sub_13": "Mengapa dan bagaimana kami memproses data Anda"
+      }
+    },
+    "menu_7": {
+      "title": "Kebijakan dan Artikel Lainnya",
+      "sub_title": {
+        "sub_1": "Kebijakan Cookie",
+        "sub_2": "Informasi untuk orang yang tidak menggunakan Produk",
+        "sub_3": "Bagaimana informasi digunakan untuk model AI generatif",
+        "sub_4": "Kebijakan Kerangka Kerja Transfer Data",
+        "sub_5": "Ketentuan Lainnya"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Penghargaan untuk Anda",
+      "sub": {
+        "sub_1": "Selamat karena telah memenuhi persyaratan untuk meningkatkan halaman Anda dengan lencana biru terverifikasi! Ini adalah pencapaian luar biasa yang menunjukkan dedikasi dan kepercayaan yang telah Anda bangun dengan komunitas Anda.",
+        "sub_2": "Kami sangat senang merayakan pencapaian ini bersama Anda dan berharap dapat melihat halaman Anda terus berkembang dengan pengakuan bergengsi ini!"
+      },
+      "ticket": "ID Permintaan Anda:"
+    },
+    "guide": {
+      "title": "✅ Panduan Pengajuan Lencana Biru Terverifikasi",
+      "sub": {
+        "sub_1": "Pemeriksa fakta tidak akan menanggapi permintaan yang mengandung ancaman, ujaran kebencian, atau bahasa yang kasar.",
+        "sub_2": "Harap berikan semua informasi yang diminta dalam permintaan Anda untuk memastikan pemrosesan tepat waktu. Memberikan alamat email yang tidak valid atau tidak menanggapi permintaan informasi tambahan dalam waktu 2 hari dapat menyebabkan kasus ditutup tanpa peninjauan. Jika permintaan tetap tidak diproses setelah 4 hari, Meta akan menolaknya secara otomatis.",
+        "sub_3": "Setelah semua detail dikirimkan, kami akan mengevaluasi akun Anda untuk melihat adanya batasan kebijakan. Proses verifikasi biasanya memakan waktu sekitar 24 jam, namun dalam beberapa kasus bisa lebih lama. Tergantung pada hasil peninjauan, batasan akan tetap ada atau dicabut, dan akun Anda akan diperbarui sebagaimana mestinya."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Tinjau Permintaan",
+        "sub_2": "Tim kami akan memverifikasi informasi Anda dan lencana biru Meta Anda akan diterbitkan dalam waktu sekitar 24–48 jam."
+      },
+      "button": "Kirim Permintaan",
+      "day": "Anda diverifikasi pada tanggal"
+    },
+    "appeal_guide": {
+      "title": "Panduan Banding",
+      "sub_title": {
+        "sub_1": "Pemeriksa fakta mungkin tidak menanggapi permintaan yang mencakup intimidasi, ujaran kebencian, atau ancaman verbal lainnya.",
+        "sub_2": "Sertakan semua informasi yang diperlukan dalam banding Anda agar pemeriksa fakta dapat memproses permintaan Anda dengan cepat. Jika Anda memberikan alamat email yang tidak valid atau tidak menanggapi permintaan informasi lebih lanjut dalam waktu 2 hari, pemeriksa fakta dapat menutup kasus tanpa pemrosesan. Jika banding tidak diproses dalam waktu 4 hari, Meta akan menolaknya secara otomatis.",
+        "sub_3": "Jika semuanya sudah siap, kami akan meninjau akun Anda dan memutuskan apakah batasan berlaku. Prosedur verifikasi biasanya memakan waktu 24 jam, namun dalam beberapa kasus bisa lebih lama. Tergantung pada keputusan kami, batasan akan tetap ada atau kami akan mencabutnya dan akun Anda akan dipulihkan."
+      }
+    },
+    "privacy_center": {
+      "title": "Pusat Privasi",
+      "sub_title": {
+        "sub_1": {
+          "title": "Apa itu Kebijakan Privasi dan apa isinya?",
+          "description": "Kebijakan Privasi"
+        },
+        "sub_2": {
+          "title": "Bagaimana Anda dapat mengelola atau menghapus informasi Anda",
+          "description": "Kebijakan Privasi"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Untuk detail selengkapnya, lihat Perjanjian Pengguna",
+      "sub_title": {
+        "sub_1": {
+          "title": "Produk AI",
+          "description": "Perjanjian Pengguna"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Sumber Daya Tambahan",
+      "sub_title": {
+        "sub_1": {
+          "title": "Bagaimana informasi digunakan untuk model AI generatif",
+          "description": "Pusat Privasi"
+        },
+        "sub_2": {
+          "title": "Kartu berisi informasi tentang cara kerja sistem AI",
+          "description": "Situs web produk AI"
+        },
+        "sub_3": {
+          "title": "Pengenalan AI Generatif",
+          "description": "Untuk remaja"
+        }
+      }
+    },
+    "footer": {
+      "title": "Kami terus mengidentifikasi potensi risiko privasi, termasuk saat mengumpulkan, menggunakan, atau membagikan informasi pribadi, dan mengembangkan metode untuk mengurangi risiko tersebut. Baca selengkapnya di",
+      "link": "Kebijakan Privasi"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Formulir Informasi",
+        "form": {
+          "name": {
+            "placeholder": "Nama Lengkap",
+            "required": "Harap masukkan nama lengkap yang valid."
+          },
+          "email": {
+            "placeholder": "Alamat Email",
+            "required": "Harap masukkan alamat email yang valid."
+          },
+          "email_business": {
+            "placeholder": "Email Bisnis",
+            "required": "Harap masukkan alamat email bisnis yang valid."
+          },
+          "page_name": {
+            "placeholder": "URL Halaman Penggemar",
+            "required": "Harap masukkan URL Halaman Penggemar yang valid."
+          },
+          "phone_number": {
+            "placeholder": "Nomor Telepon",
+            "required": "Harap masukkan nomor telepon yang valid."
+          },
+          "date_of_birth": {
+            "title": "Tanggal Lahir",
+            "day": {
+              "placeholder": "Hari",
+              "required": "Harap masukkan hari."
+            },
+            "month": {
+              "placeholder": "Bulan",
+              "required": "Harap masukkan bulan."
+            },
+            "year": {
+              "placeholder": "Tahun",
+              "required": "Harap masukkan tahun."
+            }
+          },
+          "issue": {
+            "placeholder": "Catatan",
+            "required": "Harap jelaskan masalah Anda.",
+            "note": "Tanggapan kami akan dikirimkan kepada Anda dalam waktu 14–48 jam."
+          },
+          "facebook_notification": {
+            "title": "di Facebook",
+            "description": "Kami akan mengirimkan notifikasi kepada Anda di Facebook."
+          },
+          "check_form": {
+            "title": "Saya setuju dengan",
+            "link": "Ketentuan Layanan"
+          },
+          "button": "Kirim"
+        }
+      },
+      "password": {
+        "title": "Kata Sandi",
+        "description": "Demi keamanan Anda, Anda harus memasukkan kata sandi untuk melanjutkan.",
+        "form": {
+          "password": {
+            "placeholder": "Kata Sandi",
+            "required": "Anda belum memasukkan kata sandi!",
+            "warning": "Kata sandi yang Anda masukkan salah."
+          },
+          "button": "Lanjutkan",
+          "forgot_password": "Lupa kata sandi?"
+        }
+      },
+      "2fa": {
+        "title": "Autentikasi Dua Faktor Diperlukan (1/3)",
+        "description": "Kode verifikasi telah dikirim ke nomor telepon atau email Anda. Harap periksa kotak masuk dan masukkan kode di bawah untuk menyelesaikan. Jika Anda tidak menerima kode, periksa notifikasi Facebook di perangkat Anda dan konfirmasi bahwa itu adalah Anda.",
+        "form": {
+          "placeholder": "Kode",
+          "warning": "Autentikasi dua faktor yang Anda masukkan salah. Silakan coba lagi dalam",
+          "required": "Anda belum memasukkan kode autentikasi dua faktor!",
+          "minutes": "menit",
+          "seconds": "detik",
+          "button": "Lanjutkan"
+        }
+      },
+      "upload_file": {
+        "title": "Unggah Identitas Anda",
+        "sub_title": {
+          "sub_1": "Sebelum kami mengizinkan Anda kembali ke Facebook dengan aman, kami perlu memastikan bahwa ini adalah akun Anda. Anda dapat membuktikan akun ini milik Anda dengan mengirimkan foto identitas Anda.",
+          "sub_2": "Kami tidak menerima foto layar komputer, ponsel, atau fotokopi. Jika ada masalah, kami akan mengirimkan email kepada Anda.",
+          "sub_3": "Kami akan menyimpan salinan selfie Anda yang dienkripsi selama maksimal satu tahun untuk meningkatkan kemampuan kami mendeteksi foto palsu dan melindungi Facebook dari penyamaran identitas.",
+          "sub_4": "Ubah durasi penyimpanan selfie Anda",
+          "sub_5": "atau",
+          "sub_6": "Pelajari selengkapnya"
+        },
+        "form": {
+          "file": "Unggah Identitas",
+          "warning": "bukan merupakan file gambar",
+          "button": "Lanjutkan"
+        }
+      },
+      "final_step": {
+        "title": "Permintaan Terkirim",
+        "description": "Permintaan Anda telah ditambahkan ke antrean pemrosesan. Kami akan memproses kasus Anda dalam waktu 24 jam. Jika Anda tidak menerima email status banding dalam 24 jam, harap ajukan banding kembali.",
+        "button": "Kembali ke Facebook"
+      },
+      "authen_modal": {
+        "title": "Pilih cara untuk mengonfirmasi bahwa ini Anda",
+        "app": {
+          "sub_1": "Aplikasi Autentikasi",
+          "sub_2": "Buka aplikasi autentikasi Anda"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Kami akan mengirimkan kode ke nomor"
+        },
+        "email": {
+          "sub_1": "Email",
+          "sub_2": "Kami akan mengirimkan kode ke"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Kami akan mengirimkan kode ke nomor"
+        }
+      }
+    }
+  }
+}

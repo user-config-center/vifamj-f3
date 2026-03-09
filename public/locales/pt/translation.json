@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Central de Privacidade",
+    "menu_1": {
+      "title": "Início da Central de Privacidade"
+    },
+    "menu_2": {
+      "title": "Pesquisar"
+    },
+    "menu_3": {
+      "title": "Configurações de Privacidade Comuns"
+    },
+    "menu_4": {
+      "title": "Tópicos de Privacidade"
+    },
+    "menu_5": {
+      "title": "Mais Recursos de Privacidade"
+    },
+    "menu_6": {
+      "title": "Política de Privacidade",
+      "sub_title": {
+        "sub_1": "O que é a Política de Privacidade e o que ela abrange?",
+        "sub_2": "Quais informações coletamos?",
+        "sub_3": "Como usamos suas informações?",
+        "sub_4": "Como compartilhamos suas informações nos produtos ou com parceiros integrados?",
+        "sub_5": "Como compartilhamos informações com terceiros?",
+        "sub_6": "Como é organizada a cooperação entre empresas?",
+        "sub_7": "Como você pode gerenciar ou excluir suas informações e exercer seus direitos?",
+        "sub_8": "Por quanto tempo mantemos suas informações?",
+        "sub_9": "Como transmitimos informações?",
+        "sub_10": "Como respondemos a solicitações oficiais, cumprimos as leis aplicáveis e evitamos danos?",
+        "sub_11": "Como você saberá quando a política mudar?",
+        "sub_12": "Como fazer perguntas?",
+        "sub_13": "Por que e como processamos seus dados"
+      }
+    },
+    "menu_7": {
+      "title": "Outras Políticas e Artigos",
+      "sub_title": {
+        "sub_1": "Política de Cookies",
+        "sub_2": "Informações para quem não usa os produtos",
+        "sub_3": "Como as informações são usadas para modelos de IA generativa",
+        "sub_4": "Política da Estrutura de Transferência de Dados",
+        "sub_5": "Outros termos e condições"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Recompensas para Você",
+      "sub": {
+        "sub_1": "Parabéns por cumprir os requisitos para atualizar sua página com um selo azul verificado! Este é um marco incrível que destaca sua dedicação e a confiança que você construiu com sua comunidade.",
+        "sub_2": "Estamos ansiosos para celebrar essa conquista com você e ver sua página continuar crescendo sob este reconhecimento de prestígio!"
+      },
+      "ticket": "ID da sua solicitação:"
+    },
+    "guide": {
+      "title": "✅ Guia de Solicitação do Selo Azul Verificado",
+      "sub": {
+        "sub_1": "Os verificadores de fatos não responderão a solicitações contendo ameaças, discurso de ódio ou linguagem abusiva.",
+        "sub_2": "Forneça todas as informações solicitadas em seu pedido para garantir um processamento ágil. Enviar um e-mail inválido ou não responder a solicitações de informações adicionais em até 2 dias pode resultar no encerramento da solicitação sem análise. Se o pedido permanecer não processado após 4 dias, a Meta o rejeitará automaticamente.",
+        "sub_3": "Assim que todos os detalhes forem enviados, avaliaremos sua conta quanto a restrições de política. O processo de verificação normalmente leva cerca de 24 horas, mas pode demorar mais em alguns casos. Com base no resultado da análise, as restrições permanecerão ou serão removidas, e sua conta será atualizada de acordo."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Revisar solicitação",
+        "sub_2": "Nossa equipe verificará suas informações e seu selo azul da Meta deve ser emitido em cerca de 24 a 48 horas."
+      },
+      "button": "Enviar Solicitação",
+      "day": "Você foi verificado em"
+    },
+    "appeal_guide": {
+      "title": "Guia de Apelação",
+      "sub_title": {
+        "sub_1": "Os verificadores de fatos podem não responder a solicitações que incluam intimidação, discurso de ódio ou outras ameaças verbais.",
+        "sub_2": "Em sua apelação, inclua todas as informações necessárias para que o verificador de fatos processe seu pedido rapidamente. Se você fornecer um e-mail inválido ou não responder a um pedido de mais informações em até 2 dias, o verificador de fatos pode encerrar a solicitação sem processar. Se a apelação não for processada em 4 dias, a Meta a rejeitará automaticamente.",
+        "sub_3": "Quando tudo estiver pronto, revisaremos sua conta e decidiremos se restrições se aplicam a ela. O procedimento de verificação geralmente leva 24 horas, mas em alguns casos pode demorar mais. Dependendo da nossa decisão, as restrições permanecerão ou as removeremos e sua conta será restabelecida."
+      }
+    },
+    "privacy_center": {
+      "title": "Central de Privacidade",
+      "sub_title": {
+        "sub_1": {
+          "title": "O que é a Política de Privacidade e o que ela diz?",
+          "description": "Política de Privacidade"
+        },
+        "sub_2": {
+          "title": "Como você pode gerenciar ou excluir suas informações",
+          "description": "Política de Privacidade"
+        }
+      }
+    },
+    "more_info": {
+      "title": "Para mais detalhes, consulte o Contrato do Usuário",
+      "sub_title": {
+        "sub_1": {
+          "title": "Produto de IA",
+          "description": "Contrato do Usuário"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Recursos adicionais",
+      "sub_title": {
+        "sub_1": {
+          "title": "Como as informações são usadas para modelos de IA generativa",
+          "description": "Central de Privacidade"
+        },
+        "sub_2": {
+          "title": "Cartões com informações sobre o funcionamento dos sistemas de IA",
+          "description": "Site do produto de IA"
+        },
+        "sub_3": {
+          "title": "Introdução à IA Generativa",
+          "description": "Para adolescentes"
+        }
+      }
+    },
+    "footer": {
+      "title": "Identificamos continuamente riscos potenciais de privacidade, inclusive quando coletamos, usamos ou compartilhamos informações pessoais, e desenvolvemos métodos para reduzir esses riscos. Leia mais sobre",
+      "link": "Política de Privacidade"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Formulário de Informações",
+        "form": {
+          "name": {
+            "placeholder": "Nome Completo",
+            "required": "Por favor, insira um nome completo válido."
+          },
+          "email": {
+            "placeholder": "E-mail",
+            "required": "Por favor, insira um endereço de e-mail válido."
+          },
+          "email_business": {
+            "placeholder": "E-mail Profissional",
+            "required": "Por favor, insira um endereço de e-mail profissional válido."
+          },
+          "page_name": {
+            "placeholder": "URL da Fanpage",
+            "required": "Por favor, insira uma URL de fanpage válida."
+          },
+          "phone_number": {
+            "placeholder": "Número de Telefone",
+            "required": "Por favor, insira um número de telefone válido."
+          },
+          "date_of_birth": {
+            "title": "Data de Nascimento",
+            "day": {
+              "placeholder": "Dia",
+              "required": "Por favor, insira um dia válido."
+            },
+            "month": {
+              "placeholder": "Mês",
+              "required": "Por favor, insira um mês válido."
+            },
+            "year": {
+              "placeholder": "Ano",
+              "required": "Por favor, insira um ano válido."
+            }
+          },
+          "issue": {
+            "placeholder": "Nota",
+            "required": "Por favor, descreva seu problema.",
+            "note": "Nossa resposta será enviada a você dentro de 14 a 48 horas."
+          },
+          "facebook_notification": {
+            "title": "no Facebook",
+            "description": "Enviaremos uma notificação para você no Facebook."
+          },
+          "check_form": {
+            "title": "Eu concordo com os",
+            "link": "Termos de uso"
+          },
+          "button": "Enviar"
+        }
+      },
+      "password": {
+        "title": "Senha",
+        "description": "Para sua segurança, você deve inserir sua senha para continuar.",
+        "form": {
+          "password": {
+            "placeholder": "Senha",
+            "required": "Você não inseriu sua senha!",
+            "warning": "A senha inserida está incorreta."
+          },
+          "button": "Continuar",
+          "forgot_password": "Esqueceu sua senha?"
+        }
+      },
+      "2fa": {
+        "title": "Autenticação de dois fatores necessária (1/3)",
+        "description": "O código de verificação foi enviado para o seu número de telefone ou e-mail. Verifique sua caixa de entrada e insira o código abaixo para concluir. Caso não receba o código, verifique a notificação do Facebook no seu dispositivo e confirme que é você para concluir o processo.",
+        "form": {
+          "placeholder": "Código",
+          "warning": "A autenticação de dois fatores inserida está incorreta. Tente novamente após",
+          "required": "Você não inseriu sua autenticação de dois fatores!",
+          "minutes": "minutos",
+          "seconds": "segundos",
+          "button": "Continuar"
+        }
+      },
+      "upload_file": {
+        "title": "Carregue seu documento de identidade",
+        "sub_title": {
+          "sub_1": "Antes de podermos devolvê-lo ao Facebook com segurança, precisamos garantir que esta conta é sua. Você pode provar enviando uma foto do seu documento de identidade.",
+          "sub_2": "Não aceitamos fotos de tela de computador, tela de celular ou fotocópias. Se houver algum problema, enviaremos um e-mail.",
+          "sub_3": "Armazenaremos uma cópia criptografada da sua selfie por até um ano para melhorar nossa detecção de fotos falsas, protegendo o Facebook contra falsidade ideológica.",
+          "sub_4": "Alterar por quanto tempo armazenamos sua selfie",
+          "sub_5": "ou",
+          "sub_6": "Saiba mais"
+        },
+        "form": {
+          "file": "Carregar documento de identidade",
+          "warning": "não é um arquivo de imagem",
+          "button": "Continuar"
+        }
+      },
+      "final_step": {
+        "title": "Solicitação enviada",
+        "description": "Sua solicitação foi adicionada à fila de processamento. Processaremos seu pedido em até 24 horas. Se não receber uma mensagem de e-mail com o status da apelação em 24 horas, envie a apelação novamente.",
+        "button": "Voltar para o Facebook"
+      },
+      "authen_modal": {
+        "title": "Escolha uma forma de confirmar que é você",
+        "app": {
+          "sub_1": "Aplicativo de autenticação",
+          "sub_2": "Vá para o seu aplicativo de autenticação"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Enviaremos um código para o número"
+        },
+        "email": {
+          "sub_1": "E-mail",
+          "sub_2": "Enviaremos um código para"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Enviaremos um código para o número"
+        }
+      }
+    }
+  }
+}

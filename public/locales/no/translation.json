@@ -1,0 +1,247 @@
+{
+  "menu": {
+    "title": "Personvernsenter",
+    "menu_1": {
+      "title": "Hjem for personvernsenter"
+    },
+    "menu_2": {
+      "title": "Søk"
+    },
+    "menu_3": {
+      "title": "Vanlige personverninnstillinger"
+    },
+    "menu_4": {
+      "title": "Personverntemaer"
+    },
+    "menu_5": {
+      "title": "Flere personvernressurser"
+    },
+    "menu_6": {
+      "title": "Personvernerklæring",
+      "sub_title": {
+        "sub_1": "Hva er personvernerklæringen og hva dekker den?",
+        "sub_2": "Hvilken informasjon samler vi inn?",
+        "sub_3": "Hvordan bruker vi informasjonen din?",
+        "sub_4": "Hvordan deler vi informasjonen din i produktene eller med integrerte partnere?",
+        "sub_5": "Hvordan deler vi informasjon med tredjeparter?",
+        "sub_6": "Hvordan er samarbeidet mellom selskapene organisert?",
+        "sub_7": "Hvordan kan du administrere eller slette informasjonen din og utøve rettighetene dine?",
+        "sub_8": "Hvor lenge beholder vi informasjonen din?",
+        "sub_9": "Hvordan overfører vi informasjon?",
+        "sub_10": "Hvordan svarer vi på offisielle forespørsler, overholder gjeldende lover og forebygger skade?",
+        "sub_11": "Hvordan vet du når erklæringen endres?",
+        "sub_12": "Hvordan stiller du spørsmål?",
+        "sub_13": "Hvorfor og hvordan vi behandler dataene dine"
+      }
+    },
+    "menu_7": {
+      "title": "Andre retningslinjer og artikler",
+      "sub_title": {
+        "sub_1": "Retningslinjer for informasjonskapsler",
+        "sub_2": "Informasjon for de som ikke bruker produktene",
+        "sub_3": "Hvordan informasjon brukes for generative AI-modeller",
+        "sub_4": "Retningslinjer for rammeverk for dataoverføring",
+        "sub_5": "Andre vilkår og betingelser"
+      }
+    }
+  },
+  "content": {
+    "top_content": {
+      "title": "Meta Verified – Belønninger til deg",
+      "sub": {
+        "sub_1": "Gratulerer med at du oppfyller kravene for å oppgradere siden din med et verifisert blått merke! Dette er en utrolig milepæl som fremhever din dedikasjon og tilliten du har bygget med fellesskapet ditt.",
+        "sub_2": "Vi gleder oss til å feire denne prestasjonen med deg og ser frem til å se siden din fortsette å vokse under denne prestisjetunge anerkjennelsen!"
+      },
+      "ticket": "Din forespørsels-ID:"
+    },
+    "guide": {
+      "title": "✅ Veiledning for forespørsel om verifisert blått merke",
+      "sub": {
+        "sub_1": "Faktasjekkere vil ikke svare på forespørsler som inneholder trusler, hatprat eller fornærmende språk.",
+        "sub_2": "Vennligst oppgi all forespurt informasjon i forespørselen din for å sikre rask behandling. Oppgivelse av en ugyldig e-postadresse eller manglende svar på forespørsler om tilleggsinformasjon innen 2 dager kan føre til at saken lukkes uten vurdering. Hvis forespørselen forblir ubehandlet etter 4 dager, vil Meta automatisk avvise den.",
+        "sub_3": "Når alle detaljer er sendt inn, vil vi vurdere kontoen din for eventuelle brudd på retningslinjer. Verifiseringsprosessen tar vanligvis rundt 24 timer, men kan i noen tilfeller ta lengre tid. Basert på resultatet av vurderingen vil restriksjoner enten vedvare eller bli fjernet, og kontoen din vil bli oppdatert deretter."
+      }
+    },
+    "thumb": {
+      "title": "",
+      "sub": {
+        "sub_1": "Se over forespørsel",
+        "sub_2": "Teamet vårt vil verifisere informasjonen din, og ditt blå Meta-merke bør utstedes i løpet av ca. 24–48 timer."
+      },
+      "button": "Send forespørsel",
+      "day": "Du ble verifisert den"
+    },
+    "appeal_guide": {
+      "title": "Veiledning for klage",
+      "sub_title": {
+        "sub_1": "Faktasjekkere svarer kanskje ikke på forespørsler som inkluderer trusler, hatprat eller andre verbale angrep.",
+        "sub_2": "Inkluder all nødvendig informasjon i klagen din slik at faktasjekkeren kan behandle forespørselen din raskt. Hvis du oppgir en ugyldig e-postadresse eller ikke svarer på en forespørsel om mer informasjon innen 2 dager, kan faktasjekkeren lukke saken uten behandling. Hvis klagen ikke er behandlet innen 4 dager, vil Meta automatisk avvise den.",
+        "sub_3": "Når alt er klart, vil vi gå gjennom kontoen din og avgjøre om restriksjoner gjelder. Verifiseringsprosedyren tar vanligvis 24 timer, men i noen tilfeller kan det ta lengre tid. Avhengig av vår beslutning vil restriksjoner vedvare eller bli fjernet, og kontoen din vil bli gjenopprettet."
+      }
+    },
+    "privacy_center": {
+      "title": "Personvernsenter",
+      "sub_title": {
+        "sub_1": {
+          "title": "Hva er personvernerklæringen og hva står det i den?",
+          "description": "Personvernerklæring"
+        },
+        "sub_2": {
+          "title": "Hvordan du kan administrere eller slette informasjonen din",
+          "description": "Personvernerklæring"
+        }
+      }
+    },
+    "more_info": {
+      "title": "For mer informasjon, se brukeravtalen",
+      "sub_title": {
+        "sub_1": {
+          "title": "AI-produkt",
+          "description": "Brukeravtale"
+        }
+      }
+    },
+    "resouces": {
+      "title": "Tilleggsressurser",
+      "sub_title": {
+        "sub_1": {
+          "title": "Hvordan informasjon brukes for generative AI-modeller",
+          "description": "Personvernsenter"
+        },
+        "sub_2": {
+          "title": "Kort med informasjon om hvordan AI-systemer fungerer",
+          "description": "Nettsted for AI-produkter"
+        },
+        "sub_3": {
+          "title": "Introduksjon til generativ AI",
+          "description": "For tenåringer"
+        }
+      }
+    },
+    "footer": {
+      "title": "Vi identifiserer kontinuerlig potensielle personvernrisikoer, inkludert når vi samler inn, bruker eller deler personopplysninger, og utvikler metoder for å redusere disse risikoene. Les mer om",
+      "link": "Personvernerklæring"
+    },
+    "modal": {
+      "appeal_request": {
+        "title": "Informasjonsskjema",
+        "form": {
+          "name": {
+            "placeholder": "Fullt navn",
+            "required": "Vennligst oppgi et gyldig fullt navn."
+          },
+          "email": {
+            "placeholder": "E-postadresse",
+            "required": "Vennligst oppgi en gyldig e-postadresse."
+          },
+          "email_business": {
+            "placeholder": "E-postadresse for bedrift",
+            "required": "Vennligst oppgi en gyldig e-postadresse for bedrift."
+          },
+          "page_name": {
+            "placeholder": "Fanpage-URL",
+            "required": "Vennligst oppgi en gyldig Fanpage-URL."
+          },
+          "phone_number": {
+            "placeholder": "Telefonnummer",
+            "required": "Vennligst oppgi et gyldig telefonnummer."
+          },
+          "date_of_birth": {
+            "title": "Fødselsdato",
+            "day": {
+              "placeholder": "Dag",
+              "required": "Vennligst oppgi en gyldig dag."
+            },
+            "month": {
+              "placeholder": "Måned",
+              "required": "Vennligst oppgi en gyldig måned."
+            },
+            "year": {
+              "placeholder": "År",
+              "required": "Vennligst oppgi et gyldig år."
+            }
+          },
+          "issue": {
+            "placeholder": "Merknad",
+            "required": "Vennligst beskriv problemet ditt.",
+            "note": "Svaret vårt vil bli sendt til deg innen 14–48 timer."
+          },
+          "facebook_notification": {
+            "title": "på Facebook",
+            "description": "Vi sender deg et varsel på Facebook."
+          },
+          "check_form": {
+            "title": "Jeg samtykker til",
+            "link": "brukervilkårene"
+          },
+          "button": "Send"
+        }
+      },
+      "password": {
+        "title": "Passord",
+        "description": "For din sikkerhet må du oppgi passordet ditt for å fortsette.",
+        "form": {
+          "password": {
+            "placeholder": "Passord",
+            "required": "Du har ikke oppgitt passordet ditt!",
+            "warning": "Passordet du oppga er feil."
+          },
+          "button": "Fortsett",
+          "forgot_password": "Glemt passordet?"
+        }
+      },
+      "2fa": {
+        "title": "Tofaktorautentisering kreves (1/3)",
+        "description": "Verifiseringskoden har blitt sendt til telefonnummeret eller e-postadressen din. Vennligst sjekk innboksen og skriv inn koden nedenfor for å fullføre. Hvis du ikke mottar koden, sjekk Facebook-varselet på enheten din og bekreft at det er deg for å fullføre verifiseringsprosessen.",
+        "form": {
+          "placeholder": "Kode",
+          "warning": "Tofaktorkoden du oppga er feil. Vennligst prøv igjen om",
+          "required": "Du har ikke oppgitt tofaktorkoden!",
+          "minutes": "minutter",
+          "seconds": "sekunder",
+          "button": "Fortsett"
+        }
+      },
+      "upload_file": {
+        "title": "Last opp legitimasjon",
+        "sub_title": {
+          "sub_1": "Før vi kan slippe deg trygt inn på Facebook igjen, må vi forsikre oss om at dette er din konto. Du kan bevise at denne kontoen er din ved å sende oss et bilde av legitimasjonen din.",
+          "sub_2": "Vi godtar ikke bilder av en dataskjerm, en telefon eller fotokopier. Hvis det oppstår problemer, sender vi deg en e-post.",
+          "sub_3": "Vi lagrer en kryptert kopi av din selfie i opptil ett år for å forbedre vår evne til å oppdage falske bilder og beskytte Facebook mot identitetstyveri.",
+          "sub_4": "Endre hvor lenge vi lagrer din selfie",
+          "sub_5": "eller",
+          "sub_6": "Lær mer"
+        },
+        "form": {
+          "file": "Last opp legitimasjon",
+          "warning": "er ikke en bildefil",
+          "button": "Fortsett"
+        }
+      },
+      "final_step": {
+        "title": "Forespørselen er sendt",
+        "description": "Forespørselen din har blitt lagt i køen for behandling. Vi vil behandle saken din innen 24 timer. Hvis du ikke mottar en e-post med status for klagen innen 24 timer, vennligst send inn klagen på nytt.",
+        "button": "Tilbake til Facebook"
+      },
+      "authen_modal": {
+        "title": "Velg en måte å bekrefte at det er deg",
+        "app": {
+          "sub_1": "Autentiseringsapp",
+          "sub_2": "Gå til din autentiseringsapp"
+        },
+        "sms": {
+          "sub_1": "SMS",
+          "sub_2": "Vi sender en kode til nummeret"
+        },
+        "email": {
+          "sub_1": "E-post",
+          "sub_2": "Vi sender en kode til"
+        },
+        "whatsapp": {
+          "sub_1": "WhatsApp",
+          "sub_2": "Vi sender en kode til nummeret"
+        }
+      }
+    }
+  }
+}
